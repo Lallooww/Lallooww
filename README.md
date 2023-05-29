@@ -19,7 +19,8 @@
  </div>
  
 
-  ### :computer: Tools and Equipment: 
+  ### :computer: Tools and Equipment:  
+ -----------------
  <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> <strong>Linux</strong> &nbsp;
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">  <strong>AmzonWebServices</strong> &nbsp;
@@ -39,7 +40,9 @@
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" /> <strong>Zabbix</strong> &nbsp;
           
 
+ <!-- 
 ### :books: Certificates:
+-----------
 ‣ **[Formação começando em DevOps - Alura](https://cursos.alura.com.br/degree/certificate/cefb39da-dba6-4c25-8d1d-f2038baf6735)**</br>
 ‣ **[SQL COM MYSQL SERVER DA ORACLE - Alura](https://cursos.alura.com.br/degree/certificate/bc1c5027-3e53-450b-b6ea-54c6e7251ba5)**</br>
 ‣ **[Formação começando em Linux - Alura](https://cursos.alura.com.br/degree/certificate/5d87b8cf-2b0b-4e2d-b112-eff389ce9e91)**</br>
@@ -47,7 +50,7 @@
 ‣ **[Informática Hospitalar - DICOM, PACS, HL7, RIS, HIS - Udemy](https://www.udemy.com/certificate/UC-d9a1d79f-a828-4202-8d48-ab9cd0c207b4/)**</br>
 ‣ **[Inteligência de Mercado e KPIs na Tomada de Decisão - Udemy](https://www.udemy.com/certificate/UC-ef410ba2-a854-4fba-9257-f7360e2d7b66/)**</br>
 ‣ **[Torne-se um Cientista de Dados - Linkedin Learning](https://www.linkedin.com/learning/certificates/35bfa80c60dce5e5bf8709a4fceb737e8157501bb543e068cf947f6416e97082?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BXoTYoabuTBG32AC783AwaA%3D%3D)**</br>
-
+ --> 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
